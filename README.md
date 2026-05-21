@@ -1,10 +1,7 @@
 ## Freelancer Software Developer Here👋
 
 
-**prathamesh-bhosale/prathamesh-bhosale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+- I'm Prathamesh Pradip Bhosale
 - 🔭 I’m currently working on Freelancing Opensource Projects
 - 🌱 I’m currently learning new technologies in FLOSS
 - 👯 I’m looking to collaborate on opensource projects
