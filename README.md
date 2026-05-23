@@ -15,7 +15,7 @@ Building systems with Programming
 **SysAdmin**: Docker , Google CLoud , Microsoft Azure , AWS, GitHub CI   
 **Tools**: Git, Linux , VSCode 
 
-<h2 align="center"> Hi 👋 , Prathamesh Pradip Bhosalw <br/></h2> 
+<h2 align="center"> Hi 👋 , Prathamesh Pradip Bhosale <br/></h2> 
 <a href="https://github.com/prathamesh-bhosale" target="_blank">
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/prathamesh-bhosale?label=Github%20followers&style=for-the-badge">
 </a> <br> <br>
