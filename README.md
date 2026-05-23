@@ -43,7 +43,7 @@ Building systems with Programming
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-<h1>GitHub Stats! 📊</h1>
+
 <Br>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=prathamesh-bhosale&show_icons=true&locale=en)
