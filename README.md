@@ -12,7 +12,7 @@ Building systems with Programming
 
 ## 💻 Tech Stack
 **Backend**: Python , JavaScript ,Java, Spring Boot, MySQL/MariaDB , MongoDB  
-**SysAdmin**: Docker , Google CLoud , Microsoft Azure , AWS, GitHub CI   
+**SysAdmin**: Docker , Google Cloud , Microsoft Azure , AWS, GitHub CI   
 **Tools**: Git, Linux , VSCode 
 
 <h2 align="center"> Hi 👋 , Prathamesh Pradip Bhosale <br/></h2> 
