@@ -1,4 +1,4 @@
-## Freelancer Software Developer Here👋
+## Freelance Software Developer Here👋
 
 # Hey, I'm Prathamesh Pradip Bhosale 👋
 
